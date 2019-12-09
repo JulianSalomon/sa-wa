@@ -1,6 +1,6 @@
 import { XHRequest } from "@/types";
 
-const host = "localhost";
+const host = "10.0.2.15";
 const apiPort = "5000";
 const apiEntry = "graphql";
 const msPort = "4000";
